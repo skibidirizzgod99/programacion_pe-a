@@ -23,7 +23,7 @@ public:
             estadoActual = ESPERA;
             cout << "lavadora encendida. Estado: ESPERA\n";
         } else {
-            cout << "la lavadora ya está encendida.\n";
+            cout << "la lavadora ya esta encendida.\n";
         }
     }
 
